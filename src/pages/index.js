@@ -40,8 +40,8 @@ function IndexPage () {
         </Slider>
       </div>
       <div className="max-w-6xl mx-auto mt-5 justify-between p-6 text-center">
-        <h2 className="text-5xl font-serif">What is RustyNerds?</h2>
-        <p className="max-w-2xl">RustyNerds was created by <a href="https://www.facebook.com/bugsygaminghd" className="text-blue-500 underline" target="_blank">Bugsy1440p</a> with the simple intention of creating a like-minded gaming community where players from all over the world could play together and make new friends.</p>
+        <h2 className="text-5xl font-serif">What is OblivionRust?</h2>
+        <p className="max-w-2xl">OblivionRust is the official Youtube server of <a href="https://www.facebook.com/bugsygaminghd" className="text-blue-500 underline" target="_blank">Oblivion</a> with the simple intention of creating a like-minded gaming community where players from all over the world could play together and make new friends.</p>
         <p className="max-w-2xl mt-4">The Rust servers were designed with how <a href="https://www.facebook.com/bugsygaminghd" className="text-blue-500 underline" target="_blank">Bugsy1440p</a> liked to play the game and that has now evolved for over 2 and a half years from player feedback to become one of the <span className="font-bold underline">best-modded</span> server setups within the Rust community!</p>
       </div>
       <div className="max-w-6xl mx-auto mt-5 justify-between p-6 md:flex">
